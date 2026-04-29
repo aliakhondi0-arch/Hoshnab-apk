@@ -1,4 +1,4 @@
-name: Build APK from PWA
+name:  Build APK from PWA
 
 on:
   workflow_dispatch:
